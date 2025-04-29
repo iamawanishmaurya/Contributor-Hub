@@ -34,4 +34,21 @@ Please be respectful and considerate of others. We aim to create a positive and 
 
 If you have any questions or get stuck, feel free to open an issue. I'm here to help!
 
+
 Thank you for contributing! 😊
+<a href="https://github.com/iamawanishmaurya/Contributor-Hub/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=iamawanishmaurya/Contributor-Hub" />
+</a>
+
+
+![Alt](https://repobeats.axiom.co/api/embed/690ed2569dcde7153ae8701c673706fe06f636b2.svg "Repobeats analytics image")
+
+## Star History
+
+<a href="https://star-history.com/#iamawanishmaurya/Contributor-Hub&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=iamawanishmaurya/Contributor-Hub&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=iamawanishmaurya/Contributor-Hub&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=iamawanishmaurya/Contributor-Hubr&type=Date" />
+ </picture>
+</a>
