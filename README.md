@@ -34,8 +34,8 @@ Please be respectful and considerate of others. We aim to create a positive and 
 
 If you have any questions or get stuck, feel free to open an issue. I'm here to help!
 
-
 Thank you for contributing! 😊
+
 <a href="https://github.com/iamawanishmaurya/Contributor-Hub/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=iamawanishmaurya/Contributor-Hub" />
 </a>
