@@ -2,17 +2,17 @@
 
 Welcome to the Contributor Hub! 👋
 
-This repository is designed to help people make their **first contribution** to open source. The goal is simple: add your favorite quote to the list below. It's a great way to learn the basics of Git and GitHub in a friendly and low-pressure environment.
+This repository is designed to help people make their **first contribution** to open source. The goal is simple: add your favorite quote to the `quotes.md` file. It's a great way to learn the basics of Git and GitHub in a friendly and low-pressure environment.
 
 ## How to Contribute
 
 Follow these simple steps to add your quote:
 
 1.  **Fork this repository.** Click the "Fork" button in the top right corner of this page. This will create a copy of this repository in your GitHub account.
-2.  **Edit the `README.md` file.** Open the `README.md` file in your forked repository and add your favorite quote to the list. Please include your name (or GitHub username) next to the quote. For example:
+2.  **Edit the `quotes.md` file.** Open the `quotes.md` file in your forked repository and add your favorite quote to the list.
 
     ```markdown
-    > "The only way to do great work is to love what you do." - Steve Jobs (iamawanishmaurya)
+    > "The best way to keep a prisoner from escaping is to make sure he never knows he's in prison." – Fyodor Dostoevsky
     ```
 
     Add your quote below the existing ones.
@@ -21,6 +21,10 @@ Follow these simple steps to add your quote:
 5.  **Submit your Pull Request.** Review your changes and add a title and optional description to your pull request. Then, click the "Create pull request" button.
 
 That's it! I'll review your pull request, and if everything looks good, I'll merge it into the main repository. You'll officially be a contributor! 🎉
+
+## See the Awesome Quotes!
+
+You can find the growing list of inspiring quotes contributed by our community in [quotes.md](quotes.md).
 
 ## Code of Conduct
 
